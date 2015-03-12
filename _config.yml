@@ -10,3 +10,9 @@ github_username:  bateyt
 
 # Build settings
 markdown: kramdown
+
+# Syntax highlighter
+highlighter: pygments
+
+# Set encoding
+encoding: utf-8
